@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": "smnqskn",
+      "title": "hello1"
+    },
+    {
+      "id": "1561561",
+      "title": "hello2"
+    },
+    {
+      "id": "54654564",
+      "title": "hello3"
+    }    
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "todos" : [
+    {
+      "todo" : "gras afrijden",
+      "id" : "2152151",
+      "checked": true
+    },
+    {
+      "todo" : "tv kijken",
+      "id" : "2152152",
+      "checked": false
+    }    
+  ] 
+}
